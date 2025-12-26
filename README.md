@@ -1,1 +1,1 @@
-# AI-Stress-Relief-Game
+Final Year Project – AI-driven stress relief game (in progress)
